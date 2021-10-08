@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m a recent graduate from Carleton University.
 - 🌱 I’m currently learning Data Analyst, Data Scienctist and Machine Learning Concepts.
 - 👯 I’m looking to collaborate on Machine Learning Projects.
