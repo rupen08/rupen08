@@ -2,6 +2,8 @@
 
 My name is Rupen Patel and I am passionate about Data!
 
+Down below, you can access my Porfolio Projects including Web Scrapping, Data Visualization, Data Cleaning, SQL queries, Web Application and more!
+
 Machine Learning and Data Science concepts always facinate me.
 
 
